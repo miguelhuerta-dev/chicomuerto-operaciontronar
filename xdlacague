@@ -1,0 +1,2 @@
+Set-Service SysMain -StartupType Automatic
+Start-Service SysMain
